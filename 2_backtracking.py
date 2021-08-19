@@ -4,7 +4,7 @@
 
 
 #Felix Bittmann, 2020
-#TEST PROMJENE 002
+#TEST PROMJENE 002  -WDFEFWEF
 
 def posfinder(position, path, deadend, size):
 	"""Finding all available squares for the knight"""
